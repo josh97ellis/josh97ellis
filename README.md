@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### I am Josh. Based in Nebraska, USA
+- 🔭 I’m currently working on building projects to start my career in Data Engineering.
+
+Current certifications:
+- Azure: Azure Data Fundamentals
 <!--
 **josh97ellis/josh97ellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
